@@ -26,7 +26,7 @@ Optional: Enter a starting letter or sequence for the suggested word (or press E
 
 Completed Sentence:
 I love you
-
+ ```
 
 ## Customization
 
